@@ -1,0 +1,12 @@
+---
+:id: 105093148
+:submitters:
+- :name: Anja Simic
+  :email: asimi21@stlawu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-15 20:46:55.476553000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-15 12:46:55.476553000 Z
+:status: processed
+:score: 13.0
